@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "xlsx": "^0.18.5"
+    }
+}
